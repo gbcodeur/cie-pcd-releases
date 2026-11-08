@@ -3,8 +3,11 @@
 Ce dépôt est réservé à la distribution officielle des versions Android de CIE-PCD Live.
 Le code source de l’application reste dans un dépôt séparé et privé.
 
-La première version intégrant la vérification des mises à jour est en préparation.
-Les versions disponibles apparaîtront dans la rubrique [Releases](https://github.com/gbcodeur/cie-pcd-releases/releases).
+**La version 0.2.0 est disponible.**
+
+[Télécharger la dernière version Android (APK)](https://github.com/gbcodeur/cie-pcd-releases/releases/latest/download/CIE-PCD.apk)
+
+Consulter les [notes de version](https://github.com/gbcodeur/cie-pcd-releases/releases/latest).
 
 ## Installer une version publiée
 
@@ -15,7 +18,7 @@ Les versions disponibles apparaîtront dans la rubrique [Releases](https://githu
 Ne pas désinstaller la version existante pour effectuer une mise à jour.
 Ne pas télécharger « Source code (zip) » : ce fichier n’est pas l’application Android.
 
-Les futures versions intégrant le système de mise à jour afficheront une proposition dans l’application.
+À partir de la version 0.2.0, l’application peut proposer les prochaines mises à jour publiées ici. La première installation de cette version se fait avec le lien ci-dessus. Android demande toujours de confirmer l’installation.
 L’accès aux directs reste soumis aux autorisations de CIE-PCD.
 
 Pour suivre sur le web : https://private-live-app.web.app
